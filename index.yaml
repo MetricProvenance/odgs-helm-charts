@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  odgs-engine:
+  - apiVersion: v2
+    appVersion: 4.0.0
+    created: "2026-03-03T11:57:30.700691+01:00"
+    description: Metric Provenance ODGS Compliance Engine (Community Edition)
+    digest: 3b0fc755738eeaf0cb6a6e151456ec8581856ae4e73e4b3d3a6e314974b23201
+    name: odgs-engine
+    type: application
+    urls:
+    - https://MetricProvenance.github.io/odgs-helm-charts/odgs-engine-4.0.0.tgz
+    version: 4.0.0
+generated: "2026-03-03T11:57:30.700159+01:00"
