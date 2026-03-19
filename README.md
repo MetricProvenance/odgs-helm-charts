@@ -25,7 +25,7 @@ You can customize the deployment by inspecting the default values or requesting 
 
 To upgrade an existing installation:
 ```bash
-helm upgrade odgs-engine metricprovenance/odgs-engine --version 4.0.0
+helm upgrade odgs-engine metricprovenance/odgs-engine --version 5.0.1
 ```
 
 ## 🛒 Commercial Law Packs (S-Cert)
